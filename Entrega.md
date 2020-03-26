@@ -48,7 +48,7 @@ Speedup = **6479878 usec**/**3255949 usec** = 1,9902, ou seja, houve uma melhora
 
 
 ### Questão 3
-Sim, contudo de 4 para 8 threads o speedup é mínimo, tendo, por vezes, um desempenho pior com 8 threads.
+Sim, contudo, de 4 para 8 threads o speedup é mínimo, tendo, por vezes, um desempenho pior com 8 threads.
 
 
 ### Questão 4
@@ -78,7 +78,7 @@ Sim, contudo de 4 para 8 threads o speedup é mínimo, tendo, por vezes, um dese
 
 ### Questão 5
 
-Sem o semáforo, o programa estaria incorreto, pois sua região crítica não está protegida de sobrescrição.
+Sem o semáforo o programa estaria incorreto, pois sua região crítica não está protegida de sobrescrição.
 
 
 ## OpenMP
